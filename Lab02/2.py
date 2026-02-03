@@ -32,7 +32,6 @@ emp2 = PartTimeEmployee("Sara", 2, 80, 200)
 print("Full Time Employee:")
 print("Name:", emp1.name)
 print("Salary:", emp1.calculate_salary())
-
 print()
 
 print("Part Time Employee:")
